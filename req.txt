@@ -1,0 +1,5 @@
+py-cord==2.4.1
+aiohttp==3.8.5
+fsonbase==0.2.3
+ujson==5.8.0
+faginator==0.3.1b0
